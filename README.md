@@ -131,5 +131,5 @@ curl --location --request POST 'http://127.0.0.1:8080/02/Chain' --header 'Rusk-V
 
 ## Destek
 
-Core Node ekibine teşekkürler.
+Core Node ekibine teşekkürler...
 
